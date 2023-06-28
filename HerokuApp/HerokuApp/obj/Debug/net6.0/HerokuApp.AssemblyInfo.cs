@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SauceDemo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HerokuApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SauceDemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SauceDemo")]
+[assembly: System.Reflection.AssemblyProductAttribute("HerokuApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HerokuApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
