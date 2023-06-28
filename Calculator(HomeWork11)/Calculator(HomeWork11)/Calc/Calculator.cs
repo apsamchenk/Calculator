@@ -11,6 +11,6 @@ namespace Calculator_HomeWork11_.Calc
         public double Add(double x, double y) => x + y;
         public double Subtract(double x, double y) => x - y;
         public double Multiply(double x, double y) => x * y;
-        public double Division(int x, int y) => x / y;
+        public int Division(int x, int y) => x / y;
     }
 }
